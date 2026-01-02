@@ -17,7 +17,7 @@ To run this project locally:
 
 1.  **Clone the repo:**
     ```bash
-    git clone <https://github.com/BerkayTurkozx1/weather-dashboard-vibe>
+    git clone <BURAYA_GITHUB_LINKIN_GELECEK>
     cd weather-app
     ```
 
@@ -34,5 +34,14 @@ To run this project locally:
 ## Tools Used
 * **IDE:** Cursor (AI Editor)
 * **Framework:** Streamlit
-
 * **Language:** Python
+
+---
+
+## 🐳 Docker Instructions
+
+Build and run the application using Docker:
+
+1. **Build the Image:**
+   ```bash
+   docker build -t weather-dashboard .
